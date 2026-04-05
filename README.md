@@ -6,5 +6,11 @@ Started my career in ExtFo (outstaff company) as Junior Android Developer and gr
 
 Had a chance to work in Yandex as Infrastructure Mobile Developer.
 
-## Pet projects:
-- First bubble chart diagram for Russian stocks (also include US, Crypto markets): https://bubblechart.ru/
+## Pet projects
+First bubble chart diagram for Russian stocks (also include US, Crypto markets): https://bubblechart.ru/
+
+## Languages
+![](https://skillicons.dev/icons?i=kotlin,python,swift,html)
+
+## Technologies
+![](https://skillicons.dev/icons?i=linux,sqlite,docker,nginx,firebase)
