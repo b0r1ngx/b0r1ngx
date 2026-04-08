@@ -10,7 +10,7 @@ Had a chance to work in Yandex as Infrastructure Mobile Developer.
 First bubble chart diagram for Russian stocks (also include US, Crypto markets): https://bubblechart.ru/
 
 ## Languages
-![](https://skillicons.dev/icons?i=kotlin,python,swift,html)
+[![](https://skillicons.dev/icons?i=kotlin,python,swift,html)](https://skillicons.dev)
 
 ## Technologies
-![](https://skillicons.dev/icons?i=linux,sqlite,docker,nginx,firebase)
+[![](https://skillicons.dev/icons?i=linux,sqlite,docker,nginx,firebase)](https://skillicons.dev)
